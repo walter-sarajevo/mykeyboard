@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:mykeyboard-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -13,17 +14,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L Switch:GL850A U?
-U 1 1 5BE85F64
-P 3000 4200
-F 0 "U?" H 2975 5465 50  0000 C CNN
-F 1 "GL850A" H 2975 5374 50  0000 C CNN
-F 2 "" H 2300 5400 50  0001 C CNN
-F 3 "" H 2300 5400 50  0001 C CNN
-	1    3000 4200
-	1    0    0    -1  
-$EndComp
 $Comp
 L MCU_Microchip_ATmega:ATmega32U4-AU U?
 U 1 1 5BE86135

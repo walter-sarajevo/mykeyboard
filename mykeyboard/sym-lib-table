@@ -1,4 +1,3 @@
 (sym_lib_table
-  (lib (name New_Library)(type Legacy)(uri D:/projects/mykeyboard/libs/New_Library.lib)(options "")(descr ""))
-  (lib (name mykeyboard)(type Legacy)(uri D:/projects/mykeyboard/libs/mykeyboard.lib)(options "")(descr ""))
+  (lib (name mykeyboardlibs)(type Legacy)(uri ${MY_KEYBOARD_LIBS}/mykeyboard.lib)(options "")(descr ""))
 )
