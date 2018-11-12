@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name mykeyboardlibs)(type Legacy)(uri ${MY_KEYBOARD_LIBS}/mykeyboard.lib)(options "")(descr ""))
+  (lib (name mykeyboard-rescue)(type Legacy)(uri ${KIPRJMOD}/mykeyboard-rescue.lib)(options "")(descr ""))
 )
