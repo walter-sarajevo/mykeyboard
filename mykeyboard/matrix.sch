@@ -2503,7 +2503,7 @@ lcol9
 Text GLabel 7950 950  1    50   Input ~ 0
 lcol10
 Text GLabel 8700 950  1    50   Input ~ 0
-col11
+lcol11
 Text GLabel 9400 950  1    50   Input ~ 0
 lcol12
 Text GLabel 10050 1000 1    50   Input ~ 0
@@ -3098,4 +3098,7 @@ Wire Wire Line
 Connection ~ 8800 5450
 Wire Wire Line
 	8800 5450 9500 5450
+Wire Wire Line
+	8350 6000 8350 5000
+Connection ~ 8350 5000
 $EndSCHEMATC
